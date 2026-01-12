@@ -87,7 +87,6 @@ Import the SQL file into MySQL using phpMyAdmin
 Start Apache and MySQL from XAMPP
 
 Open in browser
-
 http://127.0.0.1:5500/Ecommerce-PHP-main-main/
 
 🚀 Why This Project Matters
