@@ -77,7 +77,7 @@ Relationships are maintained using primary and foreign keys.
 
 Clone the repository
 
-git clone https://github.com/your-username/Ecommerce-PHP.git
+git clone https://github.com/Aman1238-Aman/Ecommerce-PHP-main.git
 
 
 Move the project to the XAMPP htdocs directory
