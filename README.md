@@ -110,3 +110,4 @@ Product search and filtering
 
 API support for frontend frameworks
 ![image alt](https://github.com/Aman1238-Aman/Ecommerce-PHP-main/blob/285756de4c731f23d023ba35be99eb43759ff6dd/images/Purple%20Star.pdf)
+![image alt](https://github.com/Aman1238-Aman/Ecommerce-PHP-main/blob/a20f3f5860fe591c484b638337b6950b7f3e321f/images/banner_2.jpg)
