@@ -29,7 +29,7 @@ Product browsing with categories
 Add-to-cart and checkout functionality
 
 Order history tracking
-![image alt](https://github.com/Aman1238-Aman/Ecommerce-PHP-main/blob/285756de4c731f23d023ba35be99eb43759ff6dd/images/banner_3.jpg)
+
 🛠️ Admin Features
 
 Product and category management
@@ -47,7 +47,7 @@ SQL query optimization using indexing
 Input validation to prevent common vulnerabilities
 
 Session-based access control for users and admins
-![image alt](https://github.com/Aman1238-Aman/Ecommerce-PHP-main/blob/285756de4c731f23d023ba35be99eb43759ff6dd/images/banner_3.jpg)
+
 
 🧠 Business Logic Highlights
 
