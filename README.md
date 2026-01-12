@@ -88,7 +88,7 @@ Start Apache and MySQL from XAMPP
 
 Open in browser
 
-http://localhost/Ecommerce-PHP
+http://127.0.0.1:5500/Ecommerce-PHP-main-main/
 
 🚀 Why This Project Matters
 
